@@ -1,7 +1,7 @@
 # EX---2-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 
-NAME : LINGESWARAN K
-REG.NO : 212222110022
+# NAME : LINGESWARAN K
+# REG.NO : 212222110022
 # Virtualization
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
